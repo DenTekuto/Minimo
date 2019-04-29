@@ -1,0 +1,365 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+div {
+	box-sizing: border-box;
+}
+.clear {
+	clear: both;
+}
+
+/*Header content*/
+.header {
+	max-width: 1061px;
+	margin: 0 auto;
+}
+.logo {
+	float: left;
+	margin-top: 70px;
+}
+.menu {
+	float: right;
+	margin-top: 75px;
+}
+.menu ul li {
+	display: inline;
+	margin-left: 100px;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.header-content {
+	margin-top: 75px;
+}
+/*Header content*/
+
+/*Site article content*/
+.content-article {
+	padding-top: 100px;
+	max-width: 895px;
+	margin: 0 auto;
+}
+.content-article a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+h1 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.content-article p {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+.content-article-link-2 {
+	margin-top: 50px;
+}
+/*Site article content*/
+
+
+/*Site boxes content*/
+.content-box-parent {
+	padding-top: 130px;
+	max-width: 895px;
+	margin: 0 auto
+}
+.block-1-box-1 {
+	float: left;
+	max-width: 420px;
+}
+.box-1-1-link {
+	margin-top: 30px;
+}
+.block-1-box-1 a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.block-1-box-1 h2 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.block-1-box-1 p  {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+
+.block-1-box-2 {
+	float: right;
+	max-width: 420px;
+}
+.box-1-2-link {
+	margin-top: 30px;
+}
+.block-1-box-2 a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.block-1-box-2 h2 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.block-1-box-2 p  {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+
+.block-box-2 {
+	margin-top: 130px;
+}
+.block-2-box-1 {
+	float: left;
+	max-width: 420px;
+}
+.box-2-1-link {
+	margin-top: 30px;
+}
+.block-2-box-1 a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.block-2-box-1 h2 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.block-2-box-1 p  {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+
+.block-2-box-2 {
+	float: right;
+	max-width: 420px;
+}
+.box-2-2-link {
+	margin-top: 30px;
+}
+.block-2-box-2 a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.block-2-box-2 h2 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.block-2-box-2 p  {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+/*Site boxes content*/
+
+
+/*Form*/
+.form {
+	margin-top: 130px;
+}
+.form-back {
+	padding-top: 1px;
+	margin: 0 auto;
+	max-width: 1201px;
+	height: 287px;
+	background-color: #f0f0f0;
+}
+.form .form-back h2 {
+	margin-top: 70px;
+	text-align: center;
+	color: #333333;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.form-block {
+	padding-top: 85px;
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+.form-block ul li {
+	display: inline;
+	margin-left: 125px;
+}
+.form-block form input {
+	width: 310px;
+	background-color: #f0f0f0;
+  	padding: 15px;
+  	border: none;
+  	outline: none;
+	background-position: 5px 5px;
+  	padding-right: 40px;
+  	font-size: 14px;
+  	font-family: "Playfair Display";
+}
+.form-btn {
+}
+.line-form {
+	padding-top: -25px;
+	width: 399px;
+	height: 1px;
+	border: 1px solid #000000;
+	margin-left: auto;
+    margin-right: auto;
+}
+/*Form*/
+
+/*3 block of boxes content*/
+.block-box-3 {
+	padding-top: 100px;
+	max-width: 895px;
+	margin: 0 auto;
+}
+.block-3-box-1 {
+	float: left;
+	max-width: 420px;
+}
+.box-3-1-link {
+	margin-top: 30px;
+}
+.block-3-box-1 a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.block-3-box-1 h2 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.block-3-box-1 p  {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+.block-3-box-2 {
+	float: right;
+	max-width: 420px;
+}
+.box-3-2-link {
+	margin-top: 30px;
+}
+.block-3-box-2 a {
+	text-decoration: none;
+	color: #b4ad9e;
+	font-family: Ubuntu;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.block-3-box-2 h2 {
+	margin-top: 30px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 30px;
+}
+.block-3-box-2 p  {
+	margin-top: 35px;
+	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+/*3 block of boxes content*/
+
+
+/*Button*/
+.button-load {
+	margin-top: 150px;
+	text-align: center;
+}
+.button-load button {
+  	background-color: white;
+  	color: #626262;
+	font-family: "Playfair Display";
+	font-size: 20px;
+  	padding: 21px 34px;
+	text-align: center;
+	text-decoration: none;
+  	display: inline-block;
+  	border: 1px solid #626262;
+}
+/*Button*/
+
+
+/*Footer*/
+.footer {
+	margin-top: 500px;
+}
+.footer-back {
+	padding-top: 1px;
+	margin: 0 auto;
+	max-width: 1200px;
+	height: 100px;
+	background-color: #f0f0f0;
+}
+.footer-left-blk {
+	margin-top: 35px;
+	float: left;
+	margin-left: 150px;
+}
+.footer-left-blk ul li {
+	display: inline;
+	margin-left: 20px;
+}
+.footer-left-blk ul li a {
+	text-decoration: none;
+	color: #000000;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+.footer-right-blk {
+	margin-top: 35px;
+	float: right;
+	margin-right: 70px;
+}
+.footer-right-blk ul li {
+	display: inline;
+	margin-left: 20px;
+}
+.footer-right-blk ul li a {
+	text-decoration: none;
+	color: #000000;
+	font-family: "Playfair Display";
+	font-size: 14px;
+}
+
+/*Footer*/
